@@ -1,6 +1,8 @@
 <div align="center">
 
-![create-mern-mysql-app](https://raw.githubusercontent.com/Harshvardhan-Patil-264/create-mern-mysql-app/main/assets/banner.png)
+<img width="400" height="312" alt="image" src="https://github.com/user-attachments/assets/16a1328e-79ed-4f99-9543-9f840b937a96" />
+
+
 
 # create-mern-mysql-app
 
