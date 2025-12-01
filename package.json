@@ -1,0 +1,41 @@
+{
+    "name": "create-mern-mysql-app",
+    "version": "1.0.0",
+    "description": "A full-stack boilerplate generator using React, Express, Node, and MySQL (native).",
+    "main": "cli.js",
+    "bin": {
+        "create-mern-mysql-app": "cli.js"
+    },
+    "files": [
+        "cli.js",
+        "template"
+    ],
+    "keywords": [
+        "mern",
+        "mysql",
+        "react",
+        "express",
+        "node",
+        "generator",
+        "npx",
+        "boilerplate",
+        "sequelize",
+        "vite",
+        "fullstack"
+    ],
+    "author": {
+        "name": "Harshvardhan Patil",
+        "email": "harsh264patil@gmail.com",
+        "url": "https://harshvardhan-patil-portfolio.onrender.com"
+    },
+    "license": "MIT",
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Harshvardhan-Patil-264/create-mern-mysql-app"
+    },
+    "bugs": {
+        "url": "https://github.com/Harshvardhan-Patil-264/create-mern-mysql-app/issues"
+    },
+    "homepage": "https://github.com/Harshvardhan-Patil-264/create-mern-mysql-app#readme"
+}
